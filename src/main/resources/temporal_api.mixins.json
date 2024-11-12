@@ -14,5 +14,6 @@
     "minVersion": "0.8",
     "client": [
         "InvisibleRendererMixin"
-    ]
+    ],
+    "refmap": "temporal_api.refmap.json"
 }
